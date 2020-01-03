@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#FAFCFC</color>
+    <color name="colorAccent">#A79FB8</color>
+    <color name="btn">#C4C1C9</color>
+    <color name="testBtn">#9784B8</color>
+    <color name="textpost">#16161B</color>
+</resources>
